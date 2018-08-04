@@ -1,0 +1,16 @@
+module
+a module is a single file that are imported under one import and used.
+a module is a file containing python code.
+
+package
+a package is a collection of modules in directories that give a package hierarchy.
+a package may contain various subpackage. i.e. folder containing other folders.
+package is like a directory that holds subpackages and modules.
+
+"="
+is used to assigning a value to a variable
+is a simple assignment operator. its assigns values from right side operator to the left side operand.
+
+"=="
+is used to check some conditions.
+like "IF" is equality operator its check the values of two operands are equal or not.
