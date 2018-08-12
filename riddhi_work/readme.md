@@ -34,3 +34,14 @@ Q5) What is OOP? What are the OOP concept for python? explain with programming.
 #      *
 # 7. wap to take string from the user and print it back in reverse order.
 # 8. wap to take string and print number of occurance of numerical value and alphabet in a string.
+
+
+Q5) What is difference between push and append in list?
+
+Q6) How python manages memory?
+
+Q7) Is it good idea to use multithreading in python?
+
+Q8) Difference between regular `open` and `with open` in file management?
+
+Q9) WAP to create scitific calculator?
